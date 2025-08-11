@@ -9,5 +9,3 @@ The director of SZE bank identified that going through the loan applications to 
 ### Objective
 The idea behind this ML project is to build an ML model and web application that the bank can use to classify if a user can be granted a loan or not.
 
-### Web template
-For the machine learning deployment, this app uses HTML and CSS templates of [colorlib](https://colorlib.com/wp/template/colorlib-regform-7/)
